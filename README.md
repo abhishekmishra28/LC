@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhishekmishra28/LC/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekmishra28/LC/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/abhishekmishra28/LC/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekmishra28/LC/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
