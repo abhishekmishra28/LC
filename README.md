@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhishekmishra28/LC/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhishekmishra28/LC/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abhishekmishra28/LC/tree/master/0485-max-consecutive-ones) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhishekmishra28/LC/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhishekmishra28/LC/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
@@ -42,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhishekmishra28/LC/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
