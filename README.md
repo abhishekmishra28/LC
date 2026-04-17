@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishekmishra28/LC/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abhishekmishra28/LC/tree/master/0485-max-consecutive-ones) |
+| [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
 ## Math
 |  |
 | ------- |
@@ -62,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekmishra28/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
