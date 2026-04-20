@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abhishekmishra28/LC/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/abhishekmishra28/LC/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/abhishekmishra28/LC/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
