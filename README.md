@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhishekmishra28/LC/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/abhishekmishra28/LC/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
