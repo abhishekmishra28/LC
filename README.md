@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abhishekmishra28/LC/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhishekmishra28/LC/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishekmishra28/LC/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/abhishekmishra28/LC/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekmishra28/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/abhishekmishra28/LC/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishekmishra28/LC/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekmishra28/LC/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekmishra28/LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -112,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekmishra28/LC/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishekmishra28/LC/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekmishra28/LC/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -124,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhishekmishra28/LC/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
