@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhishekmishra28/LC/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekmishra28/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/abhishekmishra28/LC/tree/master/0509-fibonacci-number) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra28/LC/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhishekmishra28/LC/tree/master/0451-sort-characters-by-frequency) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra28/LC/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Bucket Sort
 |  |
 | ------- |
