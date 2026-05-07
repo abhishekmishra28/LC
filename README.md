@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhishekmishra28/LC/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -141,4 +142,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhishekmishra28/LC/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhishekmishra28/LC/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhishekmishra28/LC/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/abhishekmishra28/LC/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
