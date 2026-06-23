@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abhishekmishra28/LC/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/abhishekmishra28/LC/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/abhishekmishra28/LC/tree/master/0973-k-closest-points-to-origin) |
+| [1813-sentence-similarity-iii](https://github.com/abhishekmishra28/LC/tree/master/1813-sentence-similarity-iii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhishekmishra28/LC/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/abhishekmishra28/LC/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhishekmishra28/LC/tree/master/0189-rotate-array) |
+| [1813-sentence-similarity-iii](https://github.com/abhishekmishra28/LC/tree/master/1813-sentence-similarity-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhishekmishra28/LC/tree/master/0451-sort-characters-by-frequency) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra28/LC/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1813-sentence-similarity-iii](https://github.com/abhishekmishra28/LC/tree/master/1813-sentence-similarity-iii) |
 ## Bucket Sort
 |  |
 | ------- |
