@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishekmishra28/LC/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/abhishekmishra28/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/abhishekmishra28/LC/tree/master/0189-rotate-array) |
 | [1813-sentence-similarity-iii](https://github.com/abhishekmishra28/LC/tree/master/1813-sentence-similarity-iii) |
 ## Linked List
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/abhishekmishra28/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishekmishra28/LC/tree/master/0451-sort-characters-by-frequency) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekmishra28/LC/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1813-sentence-similarity-iii](https://github.com/abhishekmishra28/LC/tree/master/1813-sentence-similarity-iii) |
